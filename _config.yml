@@ -3,8 +3,8 @@ title: Shelley Goldberg's Sweet Blog
 email: shelley.goldberg@pitt.edu
 description: I am a senior Computer Science major at the University of Pittsburgh, currently interning at Fedex Services in the IT department. 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://sag109.github.io" # the base hostname & protocol for your site
-github_username:  sag109
+url: "http://shelleygoldberg.github.io" # the base hostname & protocol for your site
+github_username:  shelleygoldberg
 
 # Build settings
 markdown: kramdown

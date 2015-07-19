@@ -1,0 +1,33 @@
+
+
+.my-header{
+	background-color: #DEADDD;
+}
+
+.my-title{
+	color: #424242;
+	font-size: 26px;
+line-height: 56px;
+letter-spacing: -1px;
+margin-bottom: 0px;
+float: left;
+
+}
+
+.my-navbar{
+background-image: linear-gradient(to bottom,  #3366FF 0px, #00CCFF 100%);
+background-color: #DEADDD;
+
+}
+
+a.page-link.my-header-link {
+        color: #FFFFFF;
+    }
+
+.page-content,.site-footer{
+	background-color:#D4E2FF;
+}
+
+.footer-text{
+	color:#FFFFFF;
+}

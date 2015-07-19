@@ -2,9 +2,7 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
+    min-height: 90px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -19,7 +17,7 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: #FFFFFF;
     }
 }
 
@@ -31,7 +29,7 @@
         display: none;
     }
 
-    .page-link {
+   .page-link {
         color: $text-color;
         line-height: $base-line-height;
 
@@ -46,7 +44,7 @@
         top: 9px;
         right: 30px;
         background-color: $background-color;
-        border: 1px solid $grey-color-light;
+        border: 1px solid $grey-color-dark;
         border-radius: 5px;
         text-align: right;
 
@@ -92,13 +90,14 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    background-image: linear-gradient(to bottom, #00CCFF 0px, #3366FF 100%);
     padding: $spacing-unit 0;
 }
 
 .footer-heading {
     font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
+    margin-bottom: $spacing-unit / 4;
+    color:#FFFFFF;
 }
 
 .contact-list,
@@ -109,7 +108,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: $grey-color-light;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
