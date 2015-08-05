@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Post!"
+title:  "(mostly) Successful Summer"
 date:   2015-08-04 22:38:03
 categories: internship, projects
 ---
@@ -29,7 +29,7 @@ I officially have three days of work left, which means that it's time to check i
 * Revamp resume- *totally done is an overstatment, but it's definitely 
   happening!*
 * Make something cool-TBD- *Currently cooking something up with 
-[Pete Mash]: https://github.com/petermash and [Steve Ellis]: https://github.com/saellis ,
+[Pete Mash] (https://github.com/petermash and) [Steve Ellis] (https://github.com/saellis) ,
  watch out for that sweet app to drop*
 
  ###What I've not done so much, but still **learned** from:
